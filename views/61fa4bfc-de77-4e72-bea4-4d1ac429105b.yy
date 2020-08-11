@@ -7,7 +7,8 @@
         "c30db312-d613-4f7c-9375-fc05ac90c1f6",
         "39126f47-d513-4382-8a14-9837b351a007",
         "98068e93-c79f-4d2f-8b45-5aa4fb9e8eb8",
-        "c68ed369-0bbe-497a-a0e7-a3c6a3e45d5d"
+        "c68ed369-0bbe-497a-a0e7-a3c6a3e45d5d",
+        "d61d49de-d56a-40f0-86e9-f868fc2bde5a"
     ],
     "filterType": "GMObject",
     "folderName": "meta",
